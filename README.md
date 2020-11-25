@@ -88,7 +88,7 @@ These contribution guidelines have been adapted from [this good-Contributing.md-
 
 ## Further Tech Stack Information
 
-See [Backend Documentation](https://github.com/Lambda-School-Labs/Labs27-C-HRF-BE) for details on the backend of our project.
+See [Backend Documentation](https://github.com/jasonelliots/Labs27-C-HRF-BE) for details on the backend of our project.
 
 See [Data Science Documentation](https://github.com/Lambda-School-Labs/Labs27-C-HRF-DS) for details on the data science portion of our project.
 
